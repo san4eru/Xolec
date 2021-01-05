@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(33,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(34,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(36,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(48,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(49,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(112,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(113,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(133,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(134,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(145,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(148,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(172,53): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(185,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(186,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(207,55): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(250,22): warning C4305: =: усечение из "double" в "float"
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(251,23): warning C4305: =: усечение из "double" в "float"
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(254,22): warning C4305: =: усечение из "double" в "float"
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(255,22): warning C4305: =: усечение из "double" в "float"
+C:\Users\san4e\Desktop\Xolec\Xolec\Source.cpp(256,24): warning C4305: =: усечение из "double" в "float"
+  Xolec.vcxproj -> C:\Users\san4e\Desktop\Xolec\Debug\Xolec.exe
